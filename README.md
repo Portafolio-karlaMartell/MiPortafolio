@@ -25,7 +25,7 @@ Me apoyo en inteligencia artificial y aprendizaje autodidacta para llevar mis pr
 ## 🚀 Publicado en GitHub Pages
 
 Puedes ver el sitio en línea aquí:  
-🔗 https://github.com/Portafolio-karlaMartell/MiPortafolio
+🔗 https://portafolio-karlamartell.github.io/MiPortafolio/
 
 ---
 
